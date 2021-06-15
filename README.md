@@ -12,3 +12,4 @@ New Cd-He laser installed\
 **Current**: 70 mA (expected: 80 mA)\
 **Voltage**: 3500 V (expected: 2500 V)\
 Old laser packed and stored in the storage room\
+
