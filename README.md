@@ -6,7 +6,7 @@ Update at the June of 2021
 
 
 ## Lab logbook
-### *2021-06-15* \
+### *2021-06-15* 
 New Cd-He laser installed\
 **Power**: 32 mW (expected: 27 mW)\
 **Current**: 70 mA (expected: 80 mA)\
