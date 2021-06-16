@@ -5,11 +5,6 @@ Inventory and logbook for the lab
 Update at the June of 2021
 
 
-## Lab logbook
-### *2021-06-15* 
-New He-Cd laser installed\
-**Power**: 32 mW (expected: 27 mW)\
-**Current**: 70 mA (expected: 80 mA)\
-**Voltage**: 3500 V (expected: 2500 V)\
-Old He-Cd laser packed and stored in the storage room
+## [Lab logbook](https://github.com/Yao-Ch/MacroPL/blob/6b4a794da2a26679a2153f809e1ed62c2a3f0600/logbook.md)
+
 
