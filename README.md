@@ -1,7 +1,8 @@
 # Macro PL lab
-Inventory and logbook for the lab
+Inventory and logbook for the lab  
+Manual avaible
 
-## LASPE laser inventory
+## [LASPE laser inventory]()
 Update at the June of 2021
 
 
