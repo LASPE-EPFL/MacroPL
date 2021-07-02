@@ -11,6 +11,7 @@ Data sheets for each laser are available in the LASPE group folder at ATLAS: \\\
 
 ## [Lab logbook](https://github.com/Yao-Ch/MacroPL/blob/master/logbook.md)
 
+Note the unusual states of the set-up, the movement of the laser or other equipments (optical density, filters, power supply etc.)
 
 ## Overview of the set-up
 ## Manual for using the set-up
