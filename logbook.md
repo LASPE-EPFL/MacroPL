@@ -37,3 +37,18 @@ Laser re-aligned\
 **After the 20cm focal lense**: 17.1 mW \
 **After the 4th mirror**: 16.1 mW \
 **At the focal point**: 16.8 mW 
+
+# 2021-07-28
+
+Measurement of the polarization of the Laser:\
+(Angles are indicated with the line at the top of the polarizer) \
+Maximum power of 13.31 mW at the angle 80° \
+Minimum power of 0.04 mW at the angle 170° \
+-> **Vertical polarization:** the white line behind the polarizer is placed vertically 
+
+Extinction Ratio = Transmission perpendicularly divided by the Transmission alongside the polarization  
+**Extinction Ratio:** 0.003 
+
+Measurement of the spectral width : \
+The spectral profile is in the 'Manuel PL' on Overleaf \
+**Spectral width:** 0.0552 nm (Full-Width at Half-Maximum) 
